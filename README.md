@@ -26,3 +26,6 @@ This project demonstrates user input, mathematical operations, type conversion, 
 
 ## 🖥️ Example Output
 
+When you run the program in the console, it looks like this:
+
+
