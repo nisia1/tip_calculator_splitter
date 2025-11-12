@@ -28,7 +28,11 @@ This project demonstrates user input, mathematical operations, type conversion, 
 
 When you run the program in the console, it looks like this:
 
-
+Welcome to the tip calculator!
+What was the total bill? $150
+What percentage tip would you like to give? 5 10 12 15 18 20? 12
+How many people to split the bill? 5
+Each person should pay: $33.6
 
 
 
